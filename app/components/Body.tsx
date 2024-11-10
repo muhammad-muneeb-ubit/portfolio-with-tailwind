@@ -10,7 +10,7 @@ const Body = () => {
         <div className="description text-white mx-10 text-center text-lg">
         <p className="tracking-wider leading-7"> Assalam O Alaikum!</p>
         <p className="tracking-wider leading-7">Hi, my name is Muhammad Muneeb. 👨‍💻👩‍🍼👦👶🍵</p>
-        <p className="tracking-wider leading-7">I'm building stuff for client IOclient IO and MindManagerMindManager</p>
+        <p className="tracking-wider leading-7">I&#39;m building stuff for client IOclient IO and MindManagerMindManager</p>
         <p className="tracking-wider leading-7">In last 90 days on GitHub I pushed 148 commits, opened 18 PRs, merged 35 PRs, made 40 comments, created 20 branches, reviewed 7 PRs in public repositories.
         </p>
         </div>

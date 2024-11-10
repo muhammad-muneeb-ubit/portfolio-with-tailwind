@@ -11,7 +11,7 @@ const page = () => {
           <div className="description text-white mx-10  ">
             <p className="tracking-wider pt-2 leading-6"> Assalam O Alaikum!</p>
             <p className="tracking-wider pt-2 leading-6">
-              My name is Muhammad Muneeb, and I'm a talented frontend developer
+              My name is Muhammad Muneeb, and I&#39;m a talented frontend developer
               who recently enrolled in intensive training course at Governor
               House and SMIT. With my passion for creativity and eye for design,
               I possess the skills to create stunning and responsive websites
@@ -36,7 +36,7 @@ const page = () => {
             alt="Logo"
             width={500}
             height={300}  
-            style={{width:"70%",height:'108%'}}
+            style={{width:"70%",height:"108%"}}
           />
         </div>
       </div>
